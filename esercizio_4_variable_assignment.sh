@@ -34,5 +34,6 @@ echo "The value of \"a\" is now $a."
  
 echo
 
-# Terminiamo lo script con un codice di uscita 0, significa che non ha avuto errori, avesse avuto altri valori significherebbe che è terminato in errore o forzatamente.
+# Terminiamo lo script con un codice di uscita 0, significa che non ha avuto errori, avesse avuto altri valori significherebbe che è terminato in errore o forzatamente
+# Approfondiremo nel prossimo esercizio
 exit 0
