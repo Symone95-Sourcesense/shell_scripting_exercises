@@ -1,4 +1,4 @@
-#!/bin/bash4
+#!/bin/bash
 # fetch_address.sh
 # Definiamo un array che conterrà "oggetti" chiave-valore 
 declare -A address
